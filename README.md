@@ -1,4 +1,4 @@
-time loop hooor
+time loop horror
 ==============
 
 # A small game, written in Javascript.
