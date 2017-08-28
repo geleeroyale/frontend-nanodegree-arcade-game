@@ -5,7 +5,8 @@ time loop horror
 
 ## How to run:
 
-* Online: You can run the game in the browser via github pages here: [https://geleeroyale.github.io/frontend-nanodegree-arcade-game/](https://geleeroyale.github.io/frontend-nanodegree-arcade-game/)
+* Online: You can run the game in the browser via github pages here: 
+[https://geleeroyale.github.io/frontend-nanodegree-arcade-game/](https://geleeroyale.github.io/frontend-nanodegree-arcade-game/)
 * Local: Clone or download the repo, then open index.html in a web-browser.
 
 ## How to play:
